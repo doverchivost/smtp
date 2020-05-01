@@ -1,4 +1,4 @@
-This program send email message from s.t4sk@yandex.com with attachments.
+This program sends email message from s.t4sk@yandex.com with attachments.
 
 In "config.txt" subject, recipients and files to attach should be listed.
 
